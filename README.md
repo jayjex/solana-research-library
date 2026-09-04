@@ -25,7 +25,7 @@ Sources: field briefs compiled 2026-09-04 — live platform checks, Base RPC rec
 
 ## Hosted version
 
-Running on [FiatDock](https://fiatdock.com) at $0.02/call: see repo README badge / FiatDock listing (Streamable HTTP, pay-per-call via x402).
+Running on [FiatDock](https://fiatdock.com) at $0.02/call: https://fiatdock.com/s/svc_47d8957d-9516-4575-aac0-b05b5eccec32 (Streamable HTTP, pay-per-call via x402).
 
 ## Local setup
 
