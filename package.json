@@ -1,0 +1,37 @@
+{
+  "name": "solana-research-library",
+  "version": "1.0.0",
+  "description": "MCP server over a curated Solana/web3 earning-rail intelligence DB: 25 field-probed platforms (x402, bounties, quests, write-to-earn, testnets) with verdict, payout rail, KYC gate. Snapshot 2026-09-04. list/get/search/stats. Zero network at runtime.",
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "solana-research-library": "dist/index.js"
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "mcp",
+    "solana",
+    "x402",
+    "usdc",
+    "bounty",
+    "earn",
+    "dataset",
+    "modelcontextprotocol",
+    "crypto"
+  ],
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
