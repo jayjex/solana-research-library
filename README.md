@@ -30,7 +30,7 @@ Running on [FiatDock](https://fiatdock.com) at $0.02/call: https://fiatdock.com/
 ## Local setup
 
 ```bash
-git clone https://github.com/goblin-grub/solana-research-library
+git clone https://github.com/jayjex/solana-research-library
 cd solana-research-library
 npm install
 npm run build
@@ -55,8 +55,8 @@ Once the npm package is published, `npx -y solana-research-library` works too.
 
 ## Related
 
-- [earn-bounty-scanner](https://github.com/goblin-grub/earn-bounty-scanner) — live Solana bounties from Superteam Earn (fetches superteam.fun APIs)
-- [earn-dataset-mcp](https://github.com/goblin-grub/earn-dataset-mcp) — static snapshot of 28 Superteam Earn listings with full description text
+- [earn-bounty-scanner](https://github.com/jayjex/earn-bounty-scanner) — live Solana bounties from Superteam Earn (fetches superteam.fun APIs)
+- [earn-dataset-mcp](https://github.com/jayjex/earn-dataset-mcp) — static snapshot of 28 Superteam Earn listings with full description text
 
 ## License
 
