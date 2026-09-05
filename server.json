@@ -1,7 +1,7 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.jayjex/solana-research-library",
-  "description": "MCP server over a curated Solana/web3 earning-rail intelligence DB: 25 field-probed platforms with verdict, payout rail, KYC gate. Zero network at runtime.",
+  "description": "Solana/web3 earning-rail DB: 25 field-probed platforms, verdict + payout rail + KYC.",
   "repository": {
     "url": "https://github.com/jayjex/solana-research-library",
     "source": "github"
