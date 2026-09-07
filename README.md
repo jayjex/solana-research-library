@@ -57,6 +57,7 @@ Once the npm package is published, `npx -y solana-research-library` works too.
 
 - [earn-bounty-scanner](https://github.com/jayjex/earn-bounty-scanner) — live Solana bounties from Superteam Earn (fetches superteam.fun APIs)
 - [earn-dataset-mcp](https://github.com/jayjex/earn-dataset-mcp) — static snapshot of 28 Superteam Earn listings with full description text
+- [dataset-mcp](https://github.com/jayjex/dataset-mcp) — query server over the [jayjex Data Vault](https://jayjex.github.io/data-vault/): HUD rents (51,895 rows), NFL games (7,548), Airbnb listings (90,169), plus a Superteam Earn snapshot. Free samples, free query access
 
 ## License
 
