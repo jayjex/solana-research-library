@@ -51,7 +51,20 @@ stdio:
 }
 ```
 
-Once the npm package is published, `npx -y solana-research-library` works too.
+From GitHub (not on npm yet — pulls this repo, dist is committed):
+
+```json
+{
+  "mcpServers": {
+    "solana-research-library": {
+      "command": "npx",
+      "args": ["--allow-git=all", "-y", "github:jayjex/solana-research-library"]
+    }
+  }
+}
+```
+
+or plain `npx -y github:jayjex/solana-research-library` on npm 10/11. npm 12 refuses git-based installs by default (`EALLOWGIT`).
 
 ## Related
 
